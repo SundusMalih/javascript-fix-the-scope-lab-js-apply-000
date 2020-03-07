@@ -23,7 +23,7 @@ function add2(n) {
   const two = 2
 }
 
-var funkyFunction = function(thFunk) {
+var funkyFunction = function(theFunk) {
   return function() {
     return "FUNKY!"
   }
